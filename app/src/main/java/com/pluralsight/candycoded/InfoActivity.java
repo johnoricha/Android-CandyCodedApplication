@@ -25,7 +25,7 @@ public class InfoActivity extends AppCompatActivity {
     }
 
     // ***
-    public void onCreateMapIntent(View view) {
+    public void CreateMapIntent(View view) {
 
     }
     // ***
